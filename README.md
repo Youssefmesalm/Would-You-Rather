@@ -6,7 +6,7 @@
 1. clone the code.
 `git clone https://github.com/Youssefmesalm/Would-You-Rather.git` .
 2. open root directort.
-`cd Boll `
+`cd Would You Rather `
 3. install .
 `yarn install`
 
