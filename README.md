@@ -10,6 +10,8 @@
 3. install .
 `yarn install`
 
+## Demo
+https://ym-polls.netlify.app/
 
 ## Usage
 
